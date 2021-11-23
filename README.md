@@ -33,6 +33,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My First PR Merged](https://batemans.tech/posts/my-first-pr-merged/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.batemans.tech)
