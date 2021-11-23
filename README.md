@@ -1,4 +1,4 @@
-### This is John.[website](Batemans.Tech)
+### This is John!
 
 [![Website](https://img.shields.io/website?label=batemans.tech&style=for-the-badge&url=https%3A%2F%2Fbatemans.tech)](https://batemans.tech)
 
