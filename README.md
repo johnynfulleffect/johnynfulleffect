@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=batemans.tech&style=for-the-badge&url=https%3A%2F%2Fbatemans.tech)](https://batemans.tech)
 
-## I'm a Husband, Father, Developer, and Nerd
+## I'm a Husband, Father, Developer, and Tech Nerd
 
 - 🔭 I'm a software engineer by schooling
 - 🌱 A cloud systems architect by trade
@@ -19,7 +19,7 @@
 
 ---
 
-### Current YouTube Inspirationss
+### Current YouTube Inspirations
 
 - [Chris Titus Tech](https://www.youtube.com/c/ChrisTitusTech)
 - [Craft Computing](https://www.youtube.com/c/CraftComputing)
